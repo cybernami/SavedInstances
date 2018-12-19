@@ -1,4 +1,4 @@
-## Interface: 80000
+## Interface: 80100
 ## Title: SavedInstances
 ## Notes: Tracks Raid, Instance, World Boss lockouts for all your characters, daily/weekly quests, currencies, trade cooldowns, and more!
 ## Author: @project-author@
@@ -32,5 +32,14 @@ Libs\LibDBIcon-1.0\LibDBIcon-1.0.lua
 
 locale.lua
 
+Core.lua
+Tradeskills.lua
+LFR.lua
+Emissary.lua
+WorldBosses.lua
+Quests.lua
+Currency.lua
+MythicPlus.lua
 SavedInstances.lua
+
 config.lua
